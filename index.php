@@ -19,30 +19,30 @@
 
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Nombres</label>
-                            <input type="email" class="form-control" name="">
+                            <input type="email" class="form-control" name="name">
                         </div>    
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Apellidos</label>
-                            <input type="email" class="form-control" name="">
+                            <input type="email" class="form-control" name="surnames">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email</label>
-                            <input type="email" class="form-control" name="">
+                            <input type="email" class="form-control" name="email">
                         </div>   
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Edad</label>
-                            <input type="email" class="form-control" name="">
+                            <input type="email" class="form-control" name="age">
                         </div>  
                         <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">descripcion</label>
-                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" name=""></textarea>
+                            <label for="exampleInputEmail1" class="form-label">Descripcion</label>
+                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" name="essay"></textarea>
                         </div>
                         <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">fotografia</label>
-                            <input type="email" class="form-control" name="">
+                            <label for="exampleInputEmail1" class="form-label">Fotografia</label>
+                            <input type="email" class="form-control" name="pic">
                         </div>
 
-                            <button type="submit" class="btn btn-primary">Enviar</button>
+                            <button type="submit" class="btn btn-primary" name="send">Enviar</button>
                     </form>
                 </div>
             </div>
